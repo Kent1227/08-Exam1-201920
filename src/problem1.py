@@ -117,6 +117,7 @@ def problem1(square, thickness, window):
     line.attach_to(window)
     window.render()
 
+
 # -----------------------------------------------------------------------------
 # Calls  main  to start the ball rolling.
 # -----------------------------------------------------------------------------
